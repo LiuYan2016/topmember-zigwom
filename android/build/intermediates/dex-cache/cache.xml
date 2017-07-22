@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\sim\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\Gwang\topmember-zigwom\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_da6cbfea8fd002d2889b695c965e5468aa026cb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sim\.android\build-cache\f46ed84ad608ce71aed8f2b6693ec8cf6f5ec85b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="E:\Gwang\topmember-zigwom\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a57c99744384074464bf5fdc9ecabdf7b2802b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sim\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="E:\Gwang\topmember-zigwom\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_6cb5cb6522df6fab296d71cdafdf2e9690de4e7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sim\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="E:\Gwang\topmember-zigwom\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_b9e3e1ea9cf9a6b4771ada03bd81455ecaf0421a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sim\.android\build-cache\9d01af1efb40485d35c3d55f940b3af65608ceb3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="E:\Gwang\topmember-zigwom\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae1018f8d67649ff169a1dba7ece6f4645b33158\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sim\.android\build-cache\6363e1954f5cc3ace5a28497a15fa7ffa9b2a487\output\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="E:\Gwang\topmember-zigwom\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\infer-annotations-1.5_354aa72f5382c5f13eeea0498fbd35e8a10550aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sim\.android\build-cache\ba63fdea63c859c04eb7f37fa17201be1ffb5cac\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="E:\Gwang\topmember-zigwom\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_776a59cfb5fd5993d0b9bd69aac034053fdcbe3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sim\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="E:\Gwang\topmember-zigwom\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_c2059afa7cbb956403d39b9ed5d4f59d8ce5d938\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Gwang\topmember-zigwom\android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26d6f8167982682c9d29eb8705c0b07b3e894af5">
+        <dex dex="E:\Gwang\topmember-zigwom\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7e916a4c00d61210941573043073f8ba279a5d69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sim\.android\build-cache\1d82e08d7223fb4d1e780a3cc0dea555d14ebae7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="E:\Gwang\topmember-zigwom\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39a4e3ad5ef32bd0a3888e173808c0d735688c8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sim\.android\build-cache\f536cb1a11a5029da210c79a4d76f8792142a4d0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="E:\Gwang\topmember-zigwom\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c2d311955cbed099e244e379e6b1ab0e1933231\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sim\.android\build-cache\b73e7540ae231da3f693589301ebad14beb0e534\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\Gwang\topmember-zigwom\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d969ba2f2669ee5b60246d8cda25243efded44c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sim\.android\build-cache\1e32bed61338bff1f7ebc30127ad33d0c96fbe84\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\Gwang\topmember-zigwom\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_81a375c7457007f7895671eaffff576871cecae0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sim\.android\build-cache\d14e05e9b12e9782ecce95bfcb8e6b8861fc109e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="E:\Gwang\topmember-zigwom\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bbee3fc6fcd0d83d613d7361fc4d72a9cd2082a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sim\.android\build-cache\1e32bed61338bff1f7ebc30127ad33d0c96fbe84\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\Gwang\topmember-zigwom\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_3cf4dcb87dee8c361a1b6f81c08366c5b46af1fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sim\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="E:\Gwang\topmember-zigwom\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\staticlayout-proxy-1.0_37790cf2ac73573b294f79b5be1f4f0e5751fc67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sim\.android\build-cache\6363e1954f5cc3ace5a28497a15fa7ffa9b2a487\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f66dccf471b94d5d28c54a6b8ca9e1668b0fb0ce">
+        <dex dex="E:\Gwang\topmember-zigwom\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af2148b3923d573613e0f9825674bc3fa2a125b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sim\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="E:\Gwang\topmember-zigwom\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-3.0.0_70827f55816e1a76804e78d212b2e74babbb9294\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sim\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="E:\Gwang\topmember-zigwom\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-3.4.1_97d58fde9852f78f7578d61d8622bf25968ca657\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sim\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="E:\Gwang\topmember-zigwom\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-ws-3.4.1_b96660cf0f7bf79a78ba3fc02584db44bb98d0f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sim\.android\build-cache\4f6594dfc1a92e8f66f1458a817dbee8a3f77194\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="E:\Gwang\topmember-zigwom\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29c8180201288ebc2b5c7b461fdcdb3de035fa2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sim\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\Gwang\topmember-zigwom\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_0a97b1a5d9ca1ce63f9e946fc625df71f006e924\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sim\.android\build-cache\2ccd565997b99ac6f18cc1144d71f75e0cf79423\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\Gwang\topmember-zigwom\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c82de3ede41ff41dc39841931d59a55dd294902\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Gwang\topmember-zigwom\android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\Gwang\topmember-zigwom\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ec45a4ae8f1ad4e32767f0bebed621ddb2b3c1be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sim\.android\build-cache\244d7778409351e0e9eea50c9ec2ea19dae99dce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="E:\Gwang\topmember-zigwom\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d201e3bd226e53f60b85534551324d4007a312a\classes.dex" />
+    </item>
+
+</items>
