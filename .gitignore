@@ -24,6 +24,8 @@ coverage
 build/Release
 android/app/build
 ios/build
+android/build
+android/.gradle/3.3
 
 # Dependency directories
 node_modules
